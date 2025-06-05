@@ -1,0 +1,13 @@
+{
+  "name": "xypo-project",
+  "version": "1.0.0",
+  "description": "Plain HTML project for GitHub Pages",
+  "main": "index.html",
+  "homepage": "https://kirubakarant05.github.io/XYPO-Project",
+  "scripts": {
+    "deploy": "gh-pages -d ."
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  }
+}
